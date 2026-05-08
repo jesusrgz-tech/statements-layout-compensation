@@ -1,1 +1,1 @@
-"# Layouts y Templates de Compensaci¢n HCM" 
+# Layouts y Templates de Compensacion HCM" 
